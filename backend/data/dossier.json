@@ -1,0 +1,30 @@
+{
+  "full_name": "Bhavay Batra",
+  "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+  "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+  "impact_metrics": [
+    {
+      "badge": "1000+ DSA Problems",
+      "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+    },
+    {
+      "badge": "2x Hackathon Winner",
+      "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+    },
+    {
+      "badge": "Flipkart GRiD 8.0",
+      "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+    }
+  ],
+  "skills": [
+    "C++",
+    "Python",
+    "TypeScript",
+    "Next.js",
+    "FastAPI",
+    "Node.js",
+    "LangGraph",
+    "PostgreSQL",
+    "MongoDB"
+  ]
+}

@@ -1,0 +1,654 @@
+[
+  {
+    "job_input": "https://www.linkedin.com/jobs/view/4480242055/",
+    "resume_dossier": {
+      "full_name": "Bhavay Batra",
+      "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+      "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+      "impact_metrics": [
+        {
+          "badge": "1000+ DSA Problems",
+          "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+        },
+        {
+          "badge": "2x Hackathon Winner",
+          "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+        },
+        {
+          "badge": "Flipkart GRiD 8.0",
+          "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+        }
+      ],
+      "skills": [
+        "C++",
+        "Python",
+        "TypeScript",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "LangGraph",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    "job_data": {
+      "company_name": "Swish",
+      "company_domain": "swish.com",
+      "job_role": "Senior Business Analyst",
+      "department": "Data Science",
+      "location": "Bengaluru",
+      "key_skills": [
+        "SQL",
+        "Excel",
+        "Power BI",
+        "Tableau",
+        "Looker"
+      ]
+    },
+    "hiring_manager": {
+      "name": "Sidhant Khamankar",
+      "title": "Data Science Specialist",
+      "email": "sidhant.khamankar@swish.com",
+      "linkedin": "https://in.linkedin.com/in/sidhant-khamankar",
+      "confidence_score": 85,
+      "why_match": "Experienced in Data Science, Python, and SQL, based in Bengaluru.",
+      "email_status": "Corporate Pattern",
+      "sent": false
+    },
+    "hiring_managers": [
+      {
+        "name": "Sidhant Khamankar",
+        "title": "Data Science Specialist",
+        "email": "sidhant.khamankar@swish.com",
+        "linkedin": "https://in.linkedin.com/in/sidhant-khamankar",
+        "confidence_score": 85,
+        "why_match": "Experienced in Data Science, Python, and SQL, based in Bengaluru.",
+        "email_status": "Corporate Pattern",
+        "sent": false
+      }
+    ],
+    "confidence_score": 85,
+    "force_confirm": true,
+    "needs_review": false,
+    "research_data": {
+      "hooks": [
+        {
+          "source": "LinkedIn / Talk / Post",
+          "title": "AI Summit Reflections",
+          "detail": "Harvard Data Science Initiative and Harvard Data Science Review co-hosted their Inaugural AI Summit in late 2025."
+        },
+        {
+          "source": "Company News",
+          "title": "Human-AI Collaborations",
+          "detail": "Stanford HAI highlighted a new study showing how people increasingly rely on chatbots for critical tasks and how productive outcomes depend on collaboration design."
+        }
+      ]
+    },
+    "email_draft": {
+      "subject_line_a": "Senior Business Analyst \u2014 Bhavay Batra (2x Hackathon Winner & LeetCode Knight)",
+      "subject_line_b": "Quick note re: Senior Business Analyst at Swish",
+      "email_body": "Hi Sidhant,\n\nI saw the Senior Business Analyst opening at Swish, and tracking how modern teams design human-AI collaborations to scale operational insights makes this role particularly exciting to watch.\n\n\u2022 Built scalable systems and REST APIs during my software development internship, alongside solving 1000+ DSA problems as a LeetCode Knight in C++.\n\u2022 Won first place in two separate hackathons and reached the national semifinals of Flipkart GRiD 8.0 by shipping production-ready multi-agent AI apps under tight deadlines.\n\nWould you be open to a quick 10-minute chat this week, or should I send over my GitHub and work samples?\n\nBest,\nBhavay Batra\nFinal-year B.Tech (ECE) student & Software Developer Intern",
+      "word_count": 128
+    },
+    "completed_steps": [
+      "parse_job",
+      "find_hiring_manager",
+      "research_personalization",
+      "compose_email"
+    ]
+  },
+  {
+    "job_input": "https://www.linkedin.com/jobs/view/4472153913/",
+    "resume_dossier": {
+      "full_name": "Bhavay Batra",
+      "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+      "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+      "impact_metrics": [
+        {
+          "badge": "1000+ DSA Problems",
+          "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+        },
+        {
+          "badge": "2x Hackathon Winner",
+          "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+        },
+        {
+          "badge": "Flipkart GRiD 8.0",
+          "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+        }
+      ],
+      "skills": [
+        "C++",
+        "Python",
+        "TypeScript",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "LangGraph",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    "job_data": {
+      "company_name": "GreedyGame",
+      "company_domain": "greedygame.com",
+      "job_role": "Fullstack Developer - Intern",
+      "department": "Engineering",
+      "location": "Bengaluru",
+      "key_skills": [
+        "Go",
+        "React",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB",
+        "API Design",
+        "Data Structures",
+        "Algorithms"
+      ]
+    },
+    "hiring_manager": {
+      "name": "Pankhuri Kashyap",
+      "title": "HRBP- Tech",
+      "email": "pankhuri.kashyap@greedygame.com",
+      "linkedin": "https://in.linkedin.com/in/get-pankhuri",
+      "confidence_score": 98,
+      "why_match": "Founding Member and HRBP-Tech at GreedyGame in Bengaluru, directly managing engineering talent acquisition and human resources for tech roles.",
+      "email_status": "Verified Work Email \u2713",
+      "sent": false
+    },
+    "hiring_managers": [
+      {
+        "name": "Pankhuri Kashyap",
+        "title": "HRBP- Tech",
+        "email": "pankhuri.kashyap@greedygame.com",
+        "linkedin": "https://in.linkedin.com/in/get-pankhuri",
+        "confidence_score": 98,
+        "why_match": "Founding Member and HRBP-Tech at GreedyGame in Bengaluru, directly managing engineering talent acquisition and human resources for tech roles.",
+        "email_status": "Verified Work Email \u2713",
+        "sent": false
+      }
+    ],
+    "confidence_score": 98,
+    "force_confirm": true,
+    "needs_review": false,
+    "research_data": {
+      "hooks": [
+        {
+          "source": "LinkedIn",
+          "title": "Growth at GreedyGame",
+          "detail": "Pankhuri reflected on her journey transitioning from 'how do I do this?' to 'how can I make this better?' over her two years at GreedyGame in the AdTech and monetization space."
+        },
+        {
+          "source": "LinkedIn",
+          "title": "PubScale Independence Day Post",
+          "detail": "She reposted a celebratory Independence Day message highlighting the freedom to build and grow at PubScale."
+        }
+      ]
+    },
+    "email_draft": {
+      "subject_line_a": "Fullstack Developer - Intern \u2014 Bhavay Batra (LeetCode Knight & 2x Hackathon Winner)",
+      "subject_line_b": "Quick note re: Fullstack Developer - Intern at GreedyGame",
+      "email_body": "Hi Pankhuri,\n\nI saw the Fullstack Developer - Intern opening at GreedyGame and wanted to connect. Building scalable infrastructure in the AdTech and monetization space caught my attention, especially seeing how the team values the freedom to ship fast and grow.\n\n\u2022 Solved 1000+ DSA problems as a LeetCode Knight in C++, and reached the national semifinals of Flipkart GRiD 8.0.\n\u2022 Built and shipped scalable REST APIs and multi-agent AI apps using TypeScript, Next.js, FastAPI, and PostgreSQL.\n\nWould you be open to a quick 10-minute chat this week, or should I send over my GitHub and work samples?\n\nBest,\nBhavay Batra\nFinal-year B.Tech (ECE) student & Software Developer Intern",
+      "word_count": 121
+    },
+    "completed_steps": [
+      "parse_job",
+      "find_hiring_manager",
+      "research_personalization",
+      "compose_email"
+    ]
+  },
+  {
+    "job_input": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Lead-Software-Engineer---Big-Data_JR10434774?locationCountry=c4f78be1a8f14da0ab49ce1162348a5e",
+    "resume_dossier": {
+      "full_name": "Bhavay Batra",
+      "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+      "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+      "impact_metrics": [
+        {
+          "badge": "1000+ DSA Problems",
+          "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+        },
+        {
+          "badge": "2x Hackathon Winner",
+          "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+        },
+        {
+          "badge": "Flipkart GRiD 8.0",
+          "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+        }
+      ],
+      "skills": [
+        "C++",
+        "Python",
+        "TypeScript",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "LangGraph",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    "job_data": {
+      "company_name": "Airbus",
+      "job_role": "Lead Software Engineer - Big Data",
+      "department": "Engineering",
+      "location": "Not specified",
+      "key_skills": [
+        "Software Engineering",
+        "Big Data",
+        "Data Management",
+        "Data Processing"
+      ]
+    },
+    "hiring_manager": {
+      "name": "Jeremy D. Honaker",
+      "title": "Recruiter",
+      "email": "jeremy.honaker@airbus.com",
+      "linkedin": "https://www.linkedin.com/in/jeremy-d-honaker-808b951",
+      "confidence_score": 95,
+      "why_match": "He is an active technical recruiter at Airbus handling software, data analytics, and engineering recruitment.",
+      "email_status": "Hunter Verified \u2713",
+      "sent": false
+    },
+    "hiring_managers": [
+      {
+        "name": "Jeremy D. Honaker",
+        "title": "Recruiter",
+        "email": "jeremy.honaker@airbus.com",
+        "linkedin": "https://www.linkedin.com/in/jeremy-d-honaker-808b951",
+        "confidence_score": 95,
+        "why_match": "He is an active technical recruiter at Airbus handling software, data analytics, and engineering recruitment.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      },
+      {
+        "name": "Bin Kim",
+        "title": "Retrofit Cabin Engineering Manager",
+        "email": "bin.kim@airbus.com",
+        "linkedin": "https://www.linkedin.com/in/bin-kim-361a4a88",
+        "confidence_score": 82,
+        "why_match": "As an Engineering Manager, he has extensive experience leading technical teams within Airbus.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      },
+      {
+        "name": "Daniel Quinn",
+        "title": "Industrial Value Stream Manager - Widebody Wing",
+        "email": "daniel.quinn@airbus.com",
+        "linkedin": "https://uk.linkedin.com/in/daniel-quinn-6073a212a",
+        "confidence_score": 78,
+        "why_match": "He has proven team leadership experience as a former manufacturing engineering group leader at Airbus.",
+        "email_status": "AI Pattern Predicted",
+        "sent": false
+      }
+    ],
+    "confidence_score": 95,
+    "force_confirm": true,
+    "needs_review": false,
+    "research_data": {
+      "hooks": [
+        {
+          "source": "LinkedIn",
+          "title": "EAA AirVenture Oshkosh",
+          "detail": "He engaged with a post celebrating Airbus returning to EAA AirVenture Oshkosh where he previously helped launch Delta Air Lines' involvement."
+        },
+        {
+          "source": "Company News",
+          "title": "Airbus Americas Expansion",
+          "detail": "He highlighted the growth of the Airbus Americas Retrofit Services & Maintenance Organization in Mobile, AL, which is actively hiring for various engineering and technical roles."
+        }
+      ]
+    },
+    "email_draft": {
+      "subject_line_a": "Following Airbus's Americas expansion + Lead Software Engineer role",
+      "subject_line_b": "Airbus expansion in Mobile + Bhavay Batra",
+      "email_body": "Hi Jeremy,\n\nIt's great to see your recent focus on the growth of the Airbus Americas Retrofit Services & Maintenance Organization and the exciting momentum following EAA AirVenture.\n\nAs Airbus scales its technical operations, I\u2019d love to bring my software engineering background to the Lead Software Engineer - Big Data role. As a LeetCode Knight who has solved 1000+ DSA problems in C++, I bring a strong foundation in high-performance system design. Additionally, my experience building scalable REST APIs, integrating LLMs, and reaching the national semifinals of Flipkart GRiD 8.0 has sharpened my ability to architect robust, data-intensive applications.\n\nDo you have 10 minutes for a brief chat this week to discuss how I can support the team in Mobile?\n\nBest,\n\nBhavay Batra",
+      "word_count": 128
+    },
+    "completed_steps": [
+      "parse_job",
+      "find_hiring_manager",
+      "research_personalization",
+      "compose_email"
+    ]
+  },
+  {
+    "job_input": "https://app.dover.com/apply/kulfi/25724642-9216-4ad8-b0fd-fce0151eee35?rs=42706078",
+    "resume_dossier": {
+      "full_name": "Bhavay Batra",
+      "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+      "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+      "impact_metrics": [
+        {
+          "badge": "1000+ DSA Problems",
+          "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+        },
+        {
+          "badge": "2x Hackathon Winner",
+          "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+        },
+        {
+          "badge": "Flipkart GRiD 8.0",
+          "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+        }
+      ],
+      "skills": [
+        "C++",
+        "Python",
+        "TypeScript",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "LangGraph",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    "job_data": {
+      "company_name": "Kulfi",
+      "job_role": "Unknown",
+      "department": "Engineering",
+      "location": "Remote",
+      "key_skills": []
+    },
+    "hiring_manager": {
+      "name": "Goutam N",
+      "title": "Technical Recruiter",
+      "email": "goutam@kulfi.com",
+      "linkedin": "https://linkedin.com/in/goutam-n-5938b7176",
+      "confidence_score": 85,
+      "why_match": "Experienced technical recruiter specializing in leadership and engineering hiring.",
+      "email_status": "Hunter Verified \u2713",
+      "sent": false
+    },
+    "hiring_managers": [
+      {
+        "name": "Goutam N",
+        "title": "Technical Recruiter",
+        "email": "goutam@kulfi.com",
+        "linkedin": "https://linkedin.com/in/goutam-n-5938b7176",
+        "confidence_score": 85,
+        "why_match": "Experienced technical recruiter specializing in leadership and engineering hiring.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      },
+      {
+        "name": "Scott Logan",
+        "title": "Executive Recruiter & Senior Manager - Engineering",
+        "email": "scott@kulfi.com",
+        "linkedin": "https://ru.linkedin.com/in/scott-logan",
+        "confidence_score": 82,
+        "why_match": "Senior manager and executive recruiter focusing heavily on engineering and technical talent.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      },
+      {
+        "name": "Craig Churchill",
+        "title": "Engineering Recruiter Managing Partner",
+        "email": "craig@kulfi.com",
+        "linkedin": "https://www.linkedin.com/in/craig-churchill-engineering-recruiter-managing-partner-84a59b4",
+        "confidence_score": 80,
+        "why_match": "Managing partner and veteran recruiter specializing in engineering roles.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      }
+    ],
+    "confidence_score": 85,
+    "force_confirm": true,
+    "needs_review": false,
+    "research_data": {
+      "hooks": [
+        {
+          "source": "Company News",
+          "title": "Kulfi Origins and Cultural Heritage",
+          "detail": "An article from The Hindu explores the historical origins of the traditional frozen dairy dessert known as kulfi."
+        },
+        {
+          "source": "Company News",
+          "title": "Traditional Malai Kulfi Recipes",
+          "detail": "Recent culinary content highlights various methods for preparing traditional creamy malai kulfi at home using reduced milk and alternative ingredients."
+        }
+      ]
+    },
+    "email_draft": {
+      "subject_line_a": "Engineering role at Kulfi - Bhavay Batra",
+      "subject_line_b": "Kulfi engineering candidate: Bhavay Batra",
+      "email_body": "Hi Goutam,\n\nReading about Kulfi's roots and cultural heritage got me thinking about how great engineering blends tradition with modern scalability\u2014much like building robust systems from scratch.\n\nAs a final-year B.Tech student and software developer intern, I love tackling complex technical challenges. I'm a LeetCode Knight who has solved over 1,000 DSA problems in C++ and reached the national semifinals of Flipkart GRiD 8.0. Beyond algorithms, I build full-stack and AI applications using Next.js, Python, and FastAPI, and recently won two hackathons for building multi-agent AI tools.\n\nI\u2019d love to bring this energy to the engineering team at Kulfi. Do you have 10 minutes for a quick chat this week?\n\nBest,\nBhavay Batra",
+      "word_count": 123
+    },
+    "completed_steps": [
+      "parse_job",
+      "find_hiring_manager",
+      "research_personalization",
+      "compose_email"
+    ]
+  },
+  {
+    "job_input": "https://www.linkedin.com/jobs/view/4478966954/",
+    "resume_dossier": {
+      "full_name": "Bhavay Batra",
+      "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+      "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+      "impact_metrics": [
+        {
+          "badge": "1000+ DSA Problems",
+          "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+        },
+        {
+          "badge": "2x Hackathon Winner",
+          "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+        },
+        {
+          "badge": "Flipkart GRiD 8.0",
+          "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+        }
+      ],
+      "skills": [
+        "C++",
+        "Python",
+        "TypeScript",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "LangGraph",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    "job_data": {
+      "company_name": null,
+      "job_role": null,
+      "department": null,
+      "location": null,
+      "key_skills": []
+    },
+    "hiring_manager": {
+      "name": "Recruiter",
+      "title": "Recruiter",
+      "email": "recruiter.recruiter@none.com",
+      "linkedin": "https://www.linkedin.com/in/none-none-459852204",
+      "confidence_score": 70,
+      "why_match": "Experienced recruiter who handles hiring processes.",
+      "email_status": "AI Pattern Predicted",
+      "sent": false
+    },
+    "hiring_managers": [
+      {
+        "name": "Recruiter",
+        "title": "Recruiter",
+        "email": "recruiter.recruiter@none.com",
+        "linkedin": "https://www.linkedin.com/in/none-none-459852204",
+        "confidence_score": 70,
+        "why_match": "Experienced recruiter who handles hiring processes.",
+        "email_status": "AI Pattern Predicted",
+        "sent": false
+      },
+      {
+        "name": "Customer Service Representative Team Lead",
+        "title": "Customer Service Representative Team Lead",
+        "email": "customer.lead@none.com",
+        "linkedin": "https://www.linkedin.com/in/none-none-25b361237",
+        "confidence_score": 65,
+        "why_match": "Team lead with experience managing customer service teams.",
+        "email_status": "AI Pattern Predicted",
+        "sent": false
+      },
+      {
+        "name": "Director",
+        "title": "Director",
+        "email": "director.director@none.com",
+        "linkedin": "https://www.linkedin.com/in/none-none-9b04b741",
+        "confidence_score": 60,
+        "why_match": "Director level professional capable of managing teams and operations.",
+        "email_status": "AI Pattern Predicted",
+        "sent": false
+      }
+    ],
+    "confidence_score": 70,
+    "force_confirm": true,
+    "needs_review": false,
+    "research_data": {
+      "hooks": [
+        {
+          "source": "Company News",
+          "title": "Recruiter.com ChatGPT Course and Upskilling Platform",
+          "detail": "Recruiter.com recently unveiled a groundbreaking ChatGPT course and innovative upskilling platform for talent acquisition professionals."
+        },
+        {
+          "source": "Company News",
+          "title": "Recruiter.com and hireEZ Partnership",
+          "detail": "Recruiter.com and hireEZ partnered to revolutionize talent acquisition efficiency and expand specialist talent capabilities."
+        }
+      ]
+    },
+    "email_draft": {
+      "subject_line_a": "Following Recruiter.com's hireEZ partnership \u2014 Software Developer candidate",
+      "subject_line_b": "Engineering talent for Recruiter.com",
+      "email_body": "I saw that Recruiter.com recently partnered with hireEZ to revolutionize talent acquisition efficiency, which is an exciting step for scaling recruitment tech.\n\nAs a final-year B.Tech student and software developer intern who loves building scalable systems, I've been following your product growth. I bring strong full-stack and AI integration experience, having won two hackathons building multi-agent AI applications and reached the national semifinals of Flipkart GRiD 8.0. I also bring a rigorous problem-solving foundation, having solved 1000+ DSA problems as a LeetCode Knight in C++.\n\nI would love to bring this execution speed to your engineering team. Do you have 10 minutes for a quick chat next week?\n\nBest,\nBhavay Batra",
+      "word_count": 126
+    },
+    "completed_steps": [
+      "parse_job",
+      "find_hiring_manager",
+      "research_personalization",
+      "compose_email"
+    ]
+  },
+  {
+    "job_input": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Data-Science-Intern_JR10449782",
+    "resume_dossier": {
+      "full_name": "Bhavay Batra",
+      "headline": "Final-year B.Tech (ECE) student & Software Developer Intern",
+      "signature_hook": "Full-stack and AI systems builder with 1000+ DSA problems solved and hands-on internship experience in scalable REST APIs and LLM integration.",
+      "impact_metrics": [
+        {
+          "badge": "1000+ DSA Problems",
+          "statement": "Solved over 1000 Data Structures and Algorithms problems across coding platforms as a LeetCode Knight in C++."
+        },
+        {
+          "badge": "2x Hackathon Winner",
+          "statement": "Won first place in two separate hackathons building innovative multi-agent AI applications."
+        },
+        {
+          "badge": "Flipkart GRiD 8.0",
+          "statement": "Reached the national semifinals of Flipkart's flagship software development challenge as a semifinalist."
+        }
+      ],
+      "skills": [
+        "C++",
+        "Python",
+        "TypeScript",
+        "Next.js",
+        "FastAPI",
+        "Node.js",
+        "LangGraph",
+        "PostgreSQL",
+        "MongoDB"
+      ]
+    },
+    "job_data": {
+      "company_name": "Airbus",
+      "job_role": "Data Science Intern",
+      "department": "Data Science",
+      "location": "Bangalore Area",
+      "key_skills": [
+        "Data Science",
+        "Analytics",
+        "Machine Learning"
+      ]
+    },
+    "hiring_manager": {
+      "name": "Shanta Shastri",
+      "title": "Lead Engineer - Analytics",
+      "email": "shanta.shastri@airbus.com",
+      "linkedin": "https://co.linkedin.com/in/shantashastri",
+      "confidence_score": 95,
+      "why_match": "She works as a Lead Engineer - Analytics at Airbus in Bengaluru leading data science and technical teams.",
+      "email_status": "Hunter Verified \u2713",
+      "sent": false
+    },
+    "hiring_managers": [
+      {
+        "name": "Shanta Shastri",
+        "title": "Lead Engineer - Analytics",
+        "email": "shanta.shastri@airbus.com",
+        "linkedin": "https://co.linkedin.com/in/shantashastri",
+        "confidence_score": 95,
+        "why_match": "She works as a Lead Engineer - Analytics at Airbus in Bengaluru leading data science and technical teams.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      },
+      {
+        "name": "Saurabh Mahajan",
+        "title": "Head Of Enterprise Architecture, Innovation & Data Governance",
+        "email": "saurabh.mahajan@airbus.com",
+        "linkedin": "https://de.linkedin.com/in/saurabh-mahajan-airbus",
+        "confidence_score": 90,
+        "why_match": "He leads data governance and innovation initiatives at Airbus India in Bengaluru.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      },
+      {
+        "name": "U\u011fur Ak\u0131n",
+        "title": "Head of Aircraft Data Acquisition & Recording at Airbus",
+        "email": "ugur.akin@airbus.com",
+        "linkedin": "https://de.linkedin.com/in/u%C4%9Fur-ak%C4%B1n-983972161",
+        "confidence_score": 88,
+        "why_match": "He has extensive leadership experience in data analytics, digital transformation, and data acquisition at Airbus.",
+        "email_status": "Hunter Verified \u2713",
+        "sent": false
+      }
+    ],
+    "confidence_score": 95,
+    "force_confirm": false,
+    "needs_review": false,
+    "research_data": {
+      "hooks": [
+        {
+          "source": "LinkedIn",
+          "title": "Airbus Collective Excellence",
+          "detail": "She engaged with Airbus's 4th installment of the WWW 4.0/Collective Excellence weekend project event."
+        },
+        {
+          "source": "Talk",
+          "title": "Data Shastri Teaching Philosophy",
+          "detail": "She founded Data Shastri to transform data literacy through clarity, creativity, and purposeful insights using tools like Excel, SQL, Python, and Power BI."
+        }
+      ]
+    },
+    "email_draft": {
+      "subject_line_a": "Data Science Intern Role - Bhavay Batra (Flipkart GRiD Semifinalist)",
+      "subject_line_b": "Connecting on your work with Data Shastri and Airbus Analytics",
+      "email_body": "Hi Shanta,\n\nI really admired your teaching philosophy through Data Shastri, especially how you focus on transforming data literacy into purposeful insights using Python and SQL.\n\nAs a final-year ECE student and LeetCode Knight with 1000+ problems solved, I build scalable AI and data systems. My background includes winning two hackathons by developing multi-agent AI applications and reaching the national semifinals of Flipkart GRiD 8.0, where I focused on robust software performance and data handling.\n\nGiven your leadership in analytics at Airbus, I would love to bring this execution-focused mindset to your team as a Data Science Intern.\n\nDo you have 10 minutes next week for a brief chat?\n\nBest,\nBhavay Batra",
+      "word_count": 124
+    },
+    "completed_steps": [
+      "parse_job",
+      "find_hiring_manager",
+      "research_personalization",
+      "compose_email"
+    ]
+  }
+]
