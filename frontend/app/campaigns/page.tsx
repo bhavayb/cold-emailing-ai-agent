@@ -41,7 +41,7 @@ interface Campaign {
   };
 }
 
-const API_URL = process.env.NEXT_PUBLIC_API_URL || "http://localhost:8000";
+const API_URL = "https://cold-emailing-ai-agent.onrender.com";
 
 export default function CampaignsPage() {
   const [jobInput, setJobInput] = useState("");

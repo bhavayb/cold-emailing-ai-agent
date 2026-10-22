@@ -36,7 +36,7 @@ const DEFAULT_DOSSIER: Dossier = {
   skills: ["Python", "TypeScript", "React", "SQL", "System Design"],
 };
 
-const API_URL = process.env.NEXT_API_URL || "http://localhost:8000";
+const API_URL = "https://cold-emailing-ai-agent.onrender.com";
 
 export default function ResumePage() {
   const router = useRouter();
